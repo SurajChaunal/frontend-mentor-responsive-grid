@@ -23,6 +23,9 @@ body {
   font-size: 1.5rem;
   color: var(--color-brey-400);
   font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .container {
   max-width: 100rem;
