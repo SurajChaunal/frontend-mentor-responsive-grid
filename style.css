@@ -124,6 +124,7 @@ body {
   }
   .feature-img {
     width: 15%;
+    object-fit: contain;
   }
   .feature-1 {
     grid-row: 1/2;
